@@ -6,4 +6,4 @@ An Moblie Application to controll LEDS from a RaspberryPI
 
 * Creating Moblie Javascript Applications
 * Working with RaspberryPI
-* Improvaed my ReactNative knowledge
+* Improved my ReactNative knowledge
